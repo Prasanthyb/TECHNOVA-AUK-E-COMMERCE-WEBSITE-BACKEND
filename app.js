@@ -27,13 +27,10 @@ app.use(express.static(path.join(__dirname, 'public')));
 
 // Load Routes
 const productRouter=require('./routes/products');
-const userRouter = require('./routes/users');
-const carapiRouter=require('./routes/carapi');
+
 
 // Use Routes
 app.use('/products', productRouter);
-app.use('/users', userRouter);
-app.use('/cars',carapiRouter);
 
 
 
