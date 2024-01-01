@@ -3,6 +3,7 @@ var path = require('path');
 var cookieParser = require('cookie-parser');
 var logger = require('morgan');
 var cors = require("cors");
+const errorHandler = require("./middleware/errorHandler");
 
 const db = require('./config/db'); 
 const dotenv=require('dotenv');
@@ -34,6 +35,8 @@ app.use('/products', productRouter);
 
 
 
+// Error Handler
+app.use(errorHandler);
 
 
 
