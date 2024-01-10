@@ -34,7 +34,6 @@ const productRouter=require('./routes/products');
 app.use('/products', productRouter);
 
 
-
 // Error Handler
 app.use(errorHandler);
 

@@ -1,550 +1,652 @@
 [
     {
-      "property_pic": "images/properties/apartment1.jpg",
-      "id": 1,
-      "pet": "Yes",
-      "name": "Apartment",
-      "price": 200,
-      "bedroom": "Three Bedroom",
-      "bathroom": "Full Bathroom",
-      "propertytype": "Apartment",
-      "icon1": "images/properties/bed.png",
-       "number1": 3,
-       "icon2": "images/properties/bath.png",
-       "number2": 1,
-       "icon3": "images/properties/car.png",
-       "number3":2,
-       "rating":4.2
-    },
-    {
-      "property_pic": "images/properties/apartment2.jpg",
-      "id": 2,
-      "pet": "Yes",
-      "name": "Apartment",
-      "price": 200,
-      "bedroom": "Two Bedroom",
-      "bathroom": "Half Bathroom",
-      "propertytype": "Apartment",
-      "icon1": "images/properties/bed.png",
-       "number1": 2,
-       "icon2": "images/properties/bath.png",
-       "number2": 1,
-       "icon3": "images/properties/car.png",
-       "number3":1,
-       "rating":4
-    },
-    {
-      "property_pic": "images/properties/apartment3.jpg",
-      "id": 3,
-      "pet": "No",
-      "name": "Apartment",
-      "price": 200,
-      "bedroom": "Three Bedroom",
-      "bathroom": "Full Bathroom",
-      "propertytype": "Apartment",
-      "icon1": "images/properties/bed.png",
-       "number1": 3,
-       "icon2": "images/properties/bath.png",
-       "number2":2 ,
-       "icon3": "images/properties/car.png",
-       "number3":0,
-       "rating":4.5
-    },
-    {
-      "property_pic": "images/properties/apartment4.jpg",
-      "id": 4,
-      "pet": "No",
-      "name": "Apartment",
-      "price": 200,
-      "bedroom": "Three Bedroom",
-      "bathroom": "Full Bathroom",
-      "propertytype": "Apartment",
-      "icon1": "images/properties/bed.png",
-       "number1": 2,
-       "icon2": "images/properties/bath.png",
-       "number2": 2,
-       "icon3": "images/properties/car.png",
-       "number3":1,
-       "rating":5
-    },
-    {
-      "property_pic": "images/properties/boatshed.jpg",
-      "id": 5,
-      "pet": "No",
-      "name": "Boatshed",
-      "price":300,
-      "bedroom": "One Bedroom",
-      "bathroom": "Shared Bathroom",
-      "propertytype": "Boatshed",
-      "icon1": "images/properties/bed.png",
-       "number1": 1,
-       "icon2": "images/properties/bath.png",
-       "number2": 1,
-       "icon3": "images/properties/car.png",
-       "number3":0,
-       "rating":4.7
-    },
-    {
-      "property_pic": "images/properties/boatshed1.jpg",
-      "id": 6,
-      "pet": "Yes",
-      "name": "Boatshed",
-      "price": 300,
-      "bedroom": "Studio",
-      "bathroom": "Half Bathroom",
-      "propertytype": "Boatshed",
-      "icon1": "images/properties/bed.png",
-       "number1": 1,
-       "icon2": "images/properties/bath.png",
-       "number2": 1,
-       "icon3": "images/properties/car.png",
-       "number3":0,
-       "rating":3.5
-         },
-    {
-      "property_pic": "images/properties/boatshed2.jpg",
-      "id": 7,
-      "pet": "No",
-      "name": "Boatshed",
-      "price": 300,
-      "bedroom": "Studio",
-      "bathroom": "Half Bathroom",
-      "propertytype": "Boatshed",
-      "icon1": "images/properties/bed.png",
-       "number1": 1,
-       "icon2": "images/properties/bath.png",
-       "number2": 1,
-       "icon3": "images/properties/car.png",
-       "number3":0,
-       "rating":3.8
-    },
-    {
-      "property_pic": "images/properties/carpark1.jpg",
-      "id": 8,
-      "pet": "No",
-      "name": "Carpark",
-      "price":300,
-      "bedroom": "Not available",
-      "bathroom": "Shared Bathroom",
-      "propertytype": "Carpark",
-      "icon1": "images/properties/bed.png",
-       "number1": 0,
-       "icon2": "images/properties/bath.png",
-       "number2": 0,
-       "icon3": "images/properties/car.png",
-       "number3":0,
-       "rating":4.8
-    },
-    {
-      "property_pic": "images/properties/carpark2.jpg",
-      "id": 9,
-      "pet": "No",
-      "name": "Carpark",
-      "price": 400,
-      "bedroom": "Not available",
-      "bathroom": "Half Bathroom",
-      "propertytype": "Carpark",
-      "icon1": "images/properties/bed.png",
-       "number1": 1,
-       "icon2": "images/properties/bath.png",
-       "number2": 1,
-       "icon3": "images/properties/car.png",
-       "number3":0,
-       "rating":2.5
-    },
-    {
-      "property_pic": "images/properties/carpark3.jpg",
-      "id": 10,
-      "pet": "No",
-      "name": "Carpark",
-      "price": 400,
-      "bedroom": "Not available",
-      "bathroom": "Shared Bathroom",
-      "propertytype": "Carpark",
-      "icon1": "images/properties/bed.png",
-       "number1": 0,
-       "icon2": "images/properties/bath.png",
-       "number2": 0,
-       "icon3": "images/properties/car.png",
-       "number3":1,
-       "rating":4.35
-    },
-  
-    {
-      "property_pic": "images/properties/house1.jpg",
-      "id": 11,
-      "pet": "Yes",
-      "name": "House",
-      "price": 400,
-      "bedroom": "Two Bedroom",
-      "bathroom": "Full Bathroom",
-      "propertytype": "House",
-      "icon1": "images/properties/bed.png",
-       "number1": 2,
-       "icon2": "images/properties/bath.png",
-       "number2": 2,
-       "icon3": "images/properties/car.png",
-       "number3":2,
-       "rating":4.65
-    },
-    {
-      "property_pic": "images/properties/house2.jpg",
-      "id": 12,
-      "pet": "Yes",
-      "name": "House",
-      "price": 400,
-      "bedroom": "Three Bedroom",
-      "bathroom": "Full Bathroom",
-      "propertytype": "House",
-      "icon1": "images/properties/bed.png",
-       "number1": 3,
-       "icon2": "images/properties/bath.png",
-       "number2": 2,
-       "icon3": "images/properties/car.png",
-       "number3":2,
-       "rating":3.9
-    },
-    {
-      "property_pic": "images/properties/house3.jpg",
-      "id": 13,
-      "pet": "No",
-      "name": "House",
-      "price": 500,
-      "bedroom": "Two Bedroom",
-      "bathroom": "Full Bathroom",
-      "propertytype": "House",
-      "icon1": "images/properties/bed.png",
-       "number1": 2,
-       "icon2": "images/properties/bath.png",
-       "number2": 1,
-       "icon3": "images/properties/car.png",
-       "number3":1,
-       "rating":4.95
-    },
-    {
-      "property_pic": "images/properties/house4.jpg",
-      "id": 14,
-      "pet": "Yes",
-      "name": "House",
-      "price": 500,
-      "bedroom": "Three Bedroom",
-      "bathroom": "Full Bathroom",
-      "propertytype": "House",
-      "icon1": "images/properties/bed.png",
-       "number1": 3,
-       "icon2": "images/properties/bath.png",
-       "number2": 2,
-       "icon3": "images/properties/car.png",
-       "number3":2,
-       "rating":4
-    },
-    {
-      "property_pic": "images/properties/retirementliving.jpg",
-      "id": 15,
-      "pet": "Yes",
-      "name": "Retirement Living",
-      "price": 500,
-      "bedroom": "Three Bedroom",
-      "bathroom": "Full Bathroom",
-      "propertytype": "Retirement Living",
-      "icon1": "images/properties/bed.png",
-       "number1": 3,
-       "icon2": "images/properties/bath.png",
-       "number2": 1,
-       "icon3": "images/properties/car.png",
-       "number3":2 ,
-       "rating":5   
-    },
-    {
-      "property_pic": "images/properties/retirementliving1.jpg",
-      "id": 16,
-      "pet": "Yes",
-      "name": "Retirement Living",
-      "price": 500,
-      "bedroom": "Two Bedroom",
-      "bathroom": "Full Bathroom",
-      "propertytype": "Retirement Living",
-      "icon1": "images/properties/bed.png",
-       "number1": 2,
-       "icon2": "images/properties/bath.png",
-       "number2": 2,
-       "icon3": "images/properties/car.png",
-       "number3":1,
-       "rating":4.15
+    "id": "techserialnoa",
+    "name": "iphone x",
+    "company": "apple",
+    "price": 600000,
+    "colors": [
+        "#ff0000",
+        "#000000",
+        "#CDD0D0"
+    ],
+    "description": "The mobile is compact with its 6.2-inch OLED screen and far lighter at 168g. It perfectly captures the design, looks, and feel of the expensive one. It comes with a snapdragon processor with a 5n chip in it. It has a 200mp camera in the rear 100mp in front perfect for selfie lovers. It also support HDR content means you can watch 4K content on it.",
+    "category": "mobile",
+    "featured": true,
+    "stock": 5,
+    "reviews": 58,
+    "stars": 4.8,
+    "image": [
+        {
+            "id": "randomid1",
+            "width": 1080,
+            "height": 650,
+            "url": " https://images.pexels.com/photos/1275229/pexels-photo-1275229.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+            "filename": "prod-1.png",
+            "size": 1080,
+            "type": "image/png"
+        },
+        {
+            "id": "randomid2",
+            "width": 1080,
+            "height": 650,
+            "url": " https://images.pexels.com/photos/404280/pexels-photo-404280.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+            "filename": "prod-2.png",
+            "size": 1080,
+            "type": "image/png"
+        },
+        {
+            "id": "randomid3",
+            "width": 1080,
+            "height": 650,
+            "url": " https://images.pexels.com/photos/4224099/pexels-photo-4224099.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+            "filename": "prod-3.png",
+            "size": 1080,
+            "type": "image/png"
+        },
+        {
+            "id": "randomid4",
+            "width": 1080,
+            "height": 650,
+            "url": "https://images.pexels.com/photos/1619651/pexels-photo-1619651.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+            "filename": "prod-4.png",
+            "size": 1080,
+            "type": "image/png"
+        }
+    ]
+},
 
-    },
-    {
-      "property_pic": "images/properties/retirementliving2.jpg",
-      "id": 17,
-      "pet": "No",
-      "name": "Retirement Living",
-      "price":600,
-      "bedroom": "One Bedroom",
-      "bathroom": "Shared Bathroom",
-      "propertytype": "Retirement Living",
-      "icon1": "images/properties/bed.png",
-       "number1": 1,
-       "icon2": "images/properties/bath.png",
-       "number2": 1,
-       "icon3": "images/properties/car.png",
-       "number3":0,
-       "rating":3.69  
-    },
-    {
-      "property_pic": "images/properties/section1.jpg",
-      "id": 18,
-      "pet": "No",
-      "name": "Section",
-      "price":600,
-      "bedroom": "One Bedroom",
-      "bathroom": "Shared Bathroom",
-      "propertytype": "Section" ,
-      "icon1": "images/properties/bed.png",
-       "number1": 1,
-       "icon2": "images/properties/bath.png",
-       "number2": 1,
-       "icon3": "images/properties/car.png",
-       "number3":1,
-       "rating":4.89   
-    },
-    {
-      "property_pic": "images/properties/section2.jpg",
-      "id": 19,
-      "pet": "Yes",
-      "name": "Section",
-      "price": 1000,
-      "bedroom": "Two Bedroom",
-      "bathroom": "Full Bathroom",
-      "propertytype": "Section" ,
-      "icon1": "images/properties/bed.png",
-       "number1": 2,
-       "icon2": "images/properties/bath.png",
-       "number2": 2,
-       "icon3": "images/properties/car.png",
-       "number3":1 ,
-       "rating":4.05  
-    },
-    {
-      "property_pic": "images/properties/section3.jpg",
-      "id": 20,
-      "pet": "Yes",
-      "name": "Section",
-      "price": 600,
-      "bedroom": "Studio",
-      "bathroom": "Half Bathroom",
-      "propertytype": "Section",
-      "icon1": "images/properties/bed.png",
-       "number1": 3,
-       "icon2": "images/properties/bath.png",
-       "number2": 1,
-       "icon3": "images/properties/car.png",
-       "number3":2 ,
-       "rating":4.4   
-    },
-    {
-      "property_pic": "images/properties/studio1.jpg",
-      "id":21,
-      "pet": "Yes",
-      "name": "Studio",
-      "price":700,
-      "bedroom": "One Bedroom",
-      "bathroom": "Shared Bathroom",
-      "propertytype": "Studio",
-      "icon1": "images/properties/bed.png",
-       "number1": 1,
-       "icon2": "images/properties/bath.png",
-       "number2": 1,
-       "icon3": "images/properties/car.png",
-       "number3":1,
-       "rating":4.9
+{
+    "id": "techserialnob",
+    "name": "samsung s20",
+    "company": "samsung",
+    "price": 500000,
+    "colors": [
+        "#000",
+        "#22D3EF"
+    ],
+    "description": "The mobile is compact with its 6.2-inch OLED screen and far lighter at 168g. It perfectly captures the design, looks, and feel of the expensive one. It comes with a snapdragon processor with a 5n chip in it. It has a 200mp camera in the rear 100mp in front perfect for selfie lovers. It also support HDR content means you can watch 4K content on it.",
+    "category": "mobile",
+    "shipping": true,
+    "stock": 10,
+    "reviews": 28,
+    "stars": 4.4,
+    "image": [
+        {
+            "id": "randomid1",
+            "width": 1080,
+            "height": 650,
+            "url": " https://images.pexels.com/photos/404280/pexels-photo-404280.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+            "filename": "prod-1.png",
+            "size": 1080,
+            "type": "image/png"
+        },
+        {
+            "id": "randomid2",
+            "width": 1080,
+            "height": 650,
+            "url": " https://images.pexels.com/photos/1275229/pexels-photo-1275229.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+            "filename": "prod-2.png",
+            "size": 1080,
+            "type": "image/png"
+        },
+        {
+            "id": "randomid3",
+            "width": 1080,
+            "height": 650,
+            "url": " https://images.pexels.com/photos/4224099/pexels-photo-4224099.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+            "filename": "prod-3.png",
+            "size": 1080,
+            "type": "image/png"
+        },
+        {
+            "id": "randomid4",
+            "width": 1080,
+            "height": 650,
+            "url": "https://images.pexels.com/photos/1619651/pexels-photo-1619651.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+            "filename": "prod-4.png",
+            "size": 1080,
+            "type": "image/png"
+        }
+    ]
+},
+{
+    "id": "techserialnoc",
+    "name": "Dell Series",
+    "company": "dell",
+    "price": 702899,
+    "colors": [
+        "#22D3EF",
+        "#CDD0D0"
+    ],
+    "description": "The Laptop is compact with its 6.2-inch OLED screen and far lighter at 168g. It perfectly captures the design, looks, and feel of the expensive one. It comes with a snapdragon processor with a 5n chip in it. It has a 200mp camera in the rear 100mp in front perfect for selfie lovers. It also support HDR content means you can watch 4K content on it.",
+    "category": "laptop",
+    "stock": 12,
+    "reviews": 28,
+    "stars": 4.2,
+    "image": [
+        {
+            "id": "randomid1",
+            "width": 1080,
+            "height": 650,
+            "url": "https://images.pexels.com/photos/7974/pexels-photo.jpg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+            "filename": "prod-1.png",
+            "size": 1080,
+            "type": "image/png"
+        },
+        {
+            "id": "randomid2",
+            "width": 1080,
+            "height": 650,
+            "url": " https://images.pexels.com/photos/1275229/pexels-photo-1275229.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+            "filename": "prod-2.png",
+            "size": 1080,
+            "type": "image/png"
+        },
+        {
+            "id": "randomid3",
+            "width": 1080,
+            "height": 650,
+            "url": " https://images.pexels.com/photos/4224099/pexels-photo-4224099.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+            "filename": "prod-3.png",
+            "size": 1080,
+            "type": "image/png"
+        },
+        {
+            "id": "randomid4",
+            "width": 1080,
+            "height": 650,
+            "url": "https://images.pexels.com/photos/1619651/pexels-photo-1619651.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+            "filename": "prod-4.png",
+            "size": 1080,
+            "type": "image/png"
+        }
+    ]
+},
+{
+    "id": "techserialnod",
+    "name": "Nokia 420",
+    "company": "nokia",
+    "price": 102999,
+    "colors": [
+        "#000000",
+        "#CDD0D0"
+    ],
+    "description": "The mobile is compact with its 6.2-inch OLED screen and far lighter at 168g. It perfectly captures the design, looks, and feel of the expensive one. It comes with a snapdragon processor with a 5n chip in it. It has a 200mp camera in the rear 100mp in front perfect for selfie lovers. It also support HDR content means you can watch 4K content on it.",
+    "category": "mobile",
+    "shipping": true,
+    "stock": 6,
+    "reviews": 28,
+    "stars": 3.8,
+    "image": [
+        {
+            "id": "randomid1",
+            "width": 1080,
+            "height": 650,
+            "url": "https://images.pexels.com/photos/4224099/pexels-photo-4224099.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+            "filename": "prod-1.png",
+            "size": 1080,
+            "type": "image/png"
+        },
+        {
+            "id": "randomid2",
+            "width": 1080,
+            "height": 650,
+            "url": " https://images.pexels.com/photos/1275229/pexels-photo-1275229.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+            "filename": "prod-2.png",
+            "size": 1080,
+            "type": "image/png"
+        },
+        {
+            "id": "randomid3",
+            "width": 1080,
+            "height": 650,
+            "url": " https://images.pexels.com/photos/4224099/pexels-photo-4224099.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+            "filename": "prod-3.png",
+            "size": 1080,
+            "type": "image/png"
+        },
+        {
+            "id": "randomid4",
+            "width": 1080,
+            "height": 650,
+            "url": "https://images.pexels.com/photos/1619651/pexels-photo-1619651.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+            "filename": "prod-4.png",
+            "size": 1080,
+            "type": "image/png"
+        }
+    ]
+},
+{
+    "id": "techserialnoe",
+    "name": "Mac Pc",
+    "company": "apple",
+    "price": 200999,
+    "colors": [
+        "#000",
+        "#CDD0D0"
+    ],
+    "description": "The Computer is compact with its 6.2-inch OLED screen and far lighter at 168g. It perfectly captures the design, looks, and feel of the expensive one. It comes with a snapdragon processor with a 5n chip in it. It has a 200mp camera in the rear 100mp in front perfect for selfie lovers. It also support HDR content means you can watch 4K content on it.",
+    "category": "computer",
+    "shipping": true,
+    "stock": 4,
+    "reviews": 28,
+    "stars": 2.8,
+    "image": [
+        {
+            "id": "randomid1",
+            "width": 1080,
+            "height": 650,
+            "url": "https://images.pexels.com/photos/1029757/pexels-photo-1029757.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+            "filename": "prod-1.png",
+            "size": 1080,
+            "type": "image/png"
+        },
+        {
+            "id": "randomid2",
+            "width": 1080,
+            "height": 650,
+            "url": " https://images.pexels.com/photos/1275229/pexels-photo-1275229.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+            "filename": "prod-2.png",
+            "size": 1080,
+            "type": "image/png"
+        },
+        {
+            "id": "randomid3",
+            "width": 1080,
+            "height": 650,
+            "url": " https://images.pexels.com/photos/4224099/pexels-photo-4224099.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+            "filename": "prod-3.png",
+            "size": 1080,
+            "type": "image/png"
+        },
+        {
+            "id": "randomid4",
+            "width": 1080,
+            "height": 650,
+            "url": "https://images.pexels.com/photos/1619651/pexels-photo-1619651.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+            "filename": "prod-4.png",
+            "size": 1080,
+            "type": "image/png"
+        }
+    ]
+},
+{
+    "id": "techserialnof",
+    "name": "Macbook Pro",
+    "company": "apple",
+    "price": 699999,
+    "colors": [
+        "#000000",
+        "#CDD0D0"
+    ],
+    "description": "The Laptop is compact with its 6.2-inch OLED screen and far lighter at 168g. It perfectly captures the design, looks, and feel of the expensive one. It comes with a snapdragon processor with a 5n chip in it. It has a 200mp camera in the rear 100mp in front perfect for selfie lovers. It also support HDR content means you can watch 4K content on it.",
+    "category": "laptop",
+    "shipping": true,
+    "stock": 6,
+    "reviews": 12,
+    "stars": 4.1,
+    "image": [
+        {
+            "id": "randomid1",
+            "width": 1080,
+            "height": 650,
+            "url": "https://images.pexels.com/photos/303383/pexels-photo-303383.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+            "filename": "prod-1.png",
+            "size": 1080,
+            "type": "image/png"
+        },
+        {
+            "id": "randomid2",
+            "width": 1080,
+            "height": 650,
+            "url": " https://images.pexels.com/photos/1275229/pexels-photo-1275229.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+            "filename": "prod-2.png",
+            "size": 1080,
+            "type": "image/png"
+        },
+        {
+            "id": "randomid3",
+            "width": 1080,
+            "height": 650,
+            "url": " https://images.pexels.com/photos/4224099/pexels-photo-4224099.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+            "filename": "prod-3.png",
+            "size": 1080,
+            "type": "image/png"
+        },
+        {
+            "id": "randomid4",
+            "width": 1080,
+            "height": 650,
+            "url": "https://images.pexels.com/photos/1619651/pexels-photo-1619651.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+            "filename": "prod-4.png",
+            "size": 1080,
+            "type": "image/png"
+        }
+    ]
+},
+{
+    "id": "techserialnog",
+    "name": "Asus gseries",
+    "company": "asus",
+    "price": 509999,
+    "colors": [
+        "#CDD0D0",
+        "#000"
+    ],
+    "description": "The laptop is compact with its 6.2-inch OLED screen and far lighter at 168g. It perfectly captures the design, looks, and feel of the expensive one. It comes with a snapdragon processor with a 5n chip in it. It has a 200mp camera in the rear 100mp in front perfect for selfie lovers. It also support HDR content means you can watch 4K content on it.",
+    "category": "laptop",
+    "shipping": true,
+    "stock": 6,
+    "reviews": 23,
+    "stars": 3.7,
+    "image": [
+        {
+            "id": "randomid1",
+            "width": 1080,
+            "height": 650,
+            "url": "https://images.pexels.com/photos/261662/pexels-photo-261662.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+            "filename": "prod-1.png",
+            "size": 1080,
+            "type": "image/png"
+        },
+        {
+            "id": "randomid2",
+            "width": 1080,
+            "height": 650,
+            "url": " https://images.pexels.com/photos/1275229/pexels-photo-1275229.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+            "filename": "prod-2.png",
+            "size": 1080,
+            "type": "image/png"
+        },
+        {
+            "id": "randomid3",
+            "width": 1080,
+            "height": 650,
+            "url": " https://images.pexels.com/photos/4224099/pexels-photo-4224099.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+            "filename": "prod-3.png",
+            "size": 1080,
+            "type": "image/png"
+        },
+        {
+            "id": "randomid4",
+            "width": 1080,
+            "height": 650,
+            "url": "https://images.pexels.com/photos/1619651/pexels-photo-1619651.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+            "filename": "prod-4.png",
+            "size": 1080,
+            "type": "image/png"
+        }
+    ]
+},
+{
+    "id": "techserialnoh",
+    "name": "accessories",
+    "price": 409999,
+    "company": "lenova",
+    "colors": [
+        "#000",
+        "#CDD0D0"
+    ],
+    "description": "The accessories is compact with its 6.2-inch OLED screen and far lighter at 168g. It perfectly captures the design, looks, and feel of the expensive one. It comes with a snapdragon processor with a 5n chip in it. It has a 200mp camera in the rear 100mp in front perfect for selfie lovers. It also support HDR content means you can watch 4K content on it.",
+    "category": "accessories",
+    "featured": true,
+    "shipping": true,
+    "stock": 6,
+    "reviews": 23,
+    "stars": 4.2,
+    "image": [
+        {
+            "id": "randomid1",
+            "width": 1080,
+            "height": 650,
+            "url": "https://images.pexels.com/photos/3178938/pexels-photo-3178938.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+            "filename": "prod-1.png",
+            "size": 1080,
+            "type": "image/png"
+        },
+        {
+            "id": "randomid2",
+            "width": 1080,
+            "height": 650,
+            "url": " https://images.pexels.com/photos/1275229/pexels-photo-1275229.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+            "filename": "prod-2.png",
+            "size": 1080,
+            "type": "image/png"
+        },
+        {
+            "id": "randomid3",
+            "width": 1080,
+            "height": 650,
+            "url": " https://images.pexels.com/photos/4224099/pexels-photo-4224099.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+            "filename": "prod-3.png",
+            "size": 1080,
+            "type": "image/png"
+        },
+        {
+            "id": "randomid4",
+            "width": 1080,
+            "height": 650,
+            "url": "https://images.pexels.com/photos/1619651/pexels-photo-1619651.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+            "filename": "prod-4.png",
+            "size": 1080,
+            "type": "image/png"
+        }
+    ]
+},
+{
+    "id": "techserialnoi",
+    "name": "Iwatch",
+    "price": 109999,
+    "company": "apple",
+    "colors": [
+        "#000000"
+    ],
+    "description": "This watch is compact with its 6.2-inch OLED screen and far lighter at 168g. It perfectly captures the design, looks, and feel of the expensive one. It comes with a snapdragon processor with a 5n chip in it. It has a 200mp camera in the rear 100mp in front perfect for selfie lovers. It also support HDR content means you can watch 4K content on it.",
+    "category": "watch",
+    "shipping": true,
+    "stock": 6,
+    "reviews": 23,
+    "stars": 4.6,
+    "image": [
+        {
+            "id": "randomid1",
+            "width": 1080,
+            "height": 650,
+            "url": "https://images.pexels.com/photos/437037/pexels-photo-437037.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+            "filename": "prod-1.png",
+            "size": 1080,
+            "type": "image/png"
+        },
+        {
+            "id": "randomid2",
+            "width": 1080,
+            "height": 650,
+            "url": " https://images.pexels.com/photos/1275229/pexels-photo-1275229.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+            "filename": "prod-2.png",
+            "size": 1080,
+            "type": "image/png"
+        },
+        {
+            "id": "randomid3",
+            "width": 1080,
+            "height": 650,
+            "url": " https://images.pexels.com/photos/4224099/pexels-photo-4224099.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+            "filename": "prod-3.png",
+            "size": 1080,
+            "type": "image/png"
+        },
+        {
+            "id": "randomid4",
+            "width": 1080,
+            "height": 650,
+            "url": "https://images.pexels.com/photos/1619651/pexels-photo-1619651.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+            "filename": "prod-4.png",
+            "size": 1080,
+            "type": "image/png"
+        }
+    ]
+},
+{
+    "id": "techserialnoj",
+    "name": "user need",
+    "company": "apple",
+    "price": 300099,
+    "colors": [
+        "#ff0000",
+        "#22D3EF",
+        "#000000"
+    ],
+    "description": "The mobile is compact with its 6.2-inch OLED screen and far lighter at 168g. It perfectly captures the design, looks, and feel of the expensive one. It comes with a snapdragon processor with a 5n chip in it. It has a 200mp camera in the rear 100mp in front perfect for selfie lovers. It also support HDR content means you can watch 4K content on it.",
+    "category": "accessories",
+    "stock": 6,
+    "reviews": 23,
+    "stars": 4.2,
+    "image": [
+        {
+            "id": "randomid1",
+            "width": 1080,
+            "height": 650,
+            "url": "https://images.pexels.com/photos/1619651/pexels-photo-1619651.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+            "filename": "prod-1.png",
+            "size": 1080,
+            "type": "image/png"
+        },
+        {
+            "id": "randomid2",
+            "width": 1080,
+            "height": 650,
+            "url": " https://images.pexels.com/photos/1275229/pexels-photo-1275229.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+            "filename": "prod-2.png",
+            "size": 1080,
+            "type": "image/png"
+        },
+        {
+            "id": "randomid3",
+            "width": 1080,
+            "height": 650,
+            "url": " https://images.pexels.com/photos/4224099/pexels-photo-4224099.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+            "filename": "prod-3.png",
+            "size": 1080,
+            "type": "image/png"
+        },
+        {
+            "id": "randomid4",
+            "width": 1080,
+            "height": 650,
+            "url": "https://images.pexels.com/photos/1619651/pexels-photo-1619651.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+            "filename": "prod-4.png",
+            "size": 1080,
+            "type": "image/png"
+        }
+    ]
+},
+{
+    "id": "techserialnok",
+    "name": "rolex premium",
+    "company": "rolex",
+    "price": 99999,
+    "colors": [
+        "#000000",
+        "#CDD0D0"
+    ],
+    "description": "This watch is compact with its 6.2-inch OLED screen and far lighter at 168g. It perfectly captures the design, looks, and feel of the expensive one. It comes with a snapdragon processor with a 5n chip in it. It has a 200mp camera in the rear 100mp in front perfect for selfie lovers. It also support HDR content means you can watch 4K content on it.",
+    "category": "watch",
+    "stock": 6,
+    "reviews": 60,
+    "stars": 4.8,
+    "image": [
+        {
+            "id": "randomid1",
+            "width": 1080,
+            "height": 650,
+            "url": "https://images.pexels.com/photos/1697214/pexels-photo-1697214.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+            "filename": "prod-1.png",
+            "size": 1080,
+            "type": "image/png"
+        },
+        {
+            "id": "randomid2",
+            "width": 1080,
+            "height": 650,
+            "url": " https://images.pexels.com/photos/1275229/pexels-photo-1275229.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+            "filename": "prod-2.png",
+            "size": 1080,
+            "type": "image/png"
+        },
+        {
+            "id": "randomid3",
+            "width": 1080,
+            "height": 650,
+            "url": " https://images.pexels.com/photos/4224099/pexels-photo-4224099.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+            "filename": "prod-3.png",
+            "size": 1080,
+            "type": "image/png"
+        },
+        {
+            "id": "randomid4",
+            "width": 1080,
+            "height": 650,
+            "url": "https://images.pexels.com/photos/1619651/pexels-photo-1619651.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+            "filename": "prod-4.png",
+            "size": 1080,
+            "type": "image/png"
+        }
+    ]
+},
+{
+    "id": "techserialnol",
+    "name": "galaxy w20",
+    "price": 311999,
+    "company": "samsung",
+    "colors": [
+        "#22D3EF",
+        "#ff0000",
+        "#000000"
+    ],
+    "description": "This watch is compact with its 6.2-inch OLED screen and far lighter at 168g. It perfectly captures the design, looks, and feel of the expensive one. It comes with a snapdragon processor with a 5n chip in it. It has a 200mp camera in the rear 100mp in front perfect for selfie lovers. It also support HDR content means you can watch 4K content on it.",
+    "category": "watch",
+    "featured": true,
+    "stock": 6,
+    "reviews": 60,
+    "stars": 4.4,
+    "image": [
+        {
+            "id": "randomid1",
+            "width": 1080,
+            "height": 650,
+            "url": "https://images.pexels.com/photos/51011/pexels-photo-51011.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+            "filename": "prod-1.png",
+            "size": 1080,
+            "type": "image/png"
+        },
+        {
+            "id": "randomid2",
+            "width": 1080,
+            "height": 650,
+            "url": " https://images.pexels.com/photos/1275229/pexels-photo-1275229.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+            "filename": "prod-2.png",
+            "size": 1080,
+            "type": "image/png"
+        },
+        {
+            "id": "randomid3",
+            "width": 1080,
+            "height": 650,
+            "url": " https://images.pexels.com/photos/4224099/pexels-photo-4224099.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+            "filename": "prod-3.png",
+            "size": 1080,
+            "type": "image/png"
+        },
+        {
+            "id": "randomid4",
+            "width": 1080,
+            "height": 650,
+            "url": "https://images.pexels.com/photos/1619651/pexels-photo-1619651.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+            "filename": "prod-4.png",
+            "size": 1080,
+            "type": "image/png"
+        }
+    ]
+}
 
-    },
-    {
-      "property_pic": "images/properties/studio2.jpg",
-      "id":22,
-      "pet": "Yes",
-      "name": "Studio",
-      "price": 700,
-      "bedroom": "One Bedroom",
-      "bathroom": "Shared Bathroom",
-      "propertytype": "Studio",
-      "icon1": "images/properties/bed.png",
-       "number1": 1,
-       "icon2": "images/properties/bath.png",
-       "number2": 1,
-       "icon3": "images/properties/car.png",
-       "number3":1,
-       "rating":4.62   
-    },
-    {
-      "property_pic": "images/properties/studio3.jpg",
-      "id":23,
-      "pet": "No",
-      "name": "Studio",
-      "price": 1000,
-      "bedroom": "One Bedroom",
-      "bathroom": "Shared Bathroom",
-      "propertytype": "Studio" ,
-      "icon1": "images/properties/bed.png",
-       "number1": 1,
-       "icon2": "images/properties/bath.png",
-       "number2": 1,
-       "icon3": "images/properties/car.png",
-       "number3":0,
-       "rating":3.98
-
-    },
-    {
-      "property_pic": "images/properties/studio4.jpg",
-      "id":24,
-      "pet": "Yes",
-      "name": "Studio",
-      "price": 700,
-      "bedroom": "Two Bedroom",
-      "bathroom": "Full Bathroom",
-      "propertytype": "Studio",
-      "icon1": "images/properties/bed.png",
-       "number1": 2,
-       "icon2": "images/properties/bath.png",
-       "number2": 2,
-       "icon3": "images/properties/car.png",
-       "number3":1 ,
-       "rating":4.3  
-    },
-    {
-      "property_pic": "images/properties/studio5.jpg",
-      "id":25,
-      "pet": "No",
-      "name": "Studio",
-      "price": 800,
-      "bedroom": "One Bedroom",
-      "bathroom": "Half Bathroom",
-      "propertytype": "Studio" ,
-      "icon1": "images/properties/bed.png",
-       "number1": 1,
-       "icon2": "images/properties/bath.png",
-       "number2": 1,
-       "icon3": "images/properties/car.png",
-       "number3":1,
-       "rating":4   
-    },
-    {
-      "property_pic": "images/properties/townhouse1.jpg",
-      "id":26,
-      "pet": "Yes",
-      "name": "Townhouse",
-      "price": 800,
-      "bedroom": "Three Bedroom",
-      "bathroom": "Full Bathroom",
-      "propertytype": "Townhouse" ,
-      "icon1": "images/properties/bed.png",
-       "number1": 3,
-       "icon2": "images/properties/bath.png",
-       "number2": 1,
-       "icon3": "images/properties/car.png",
-       "number3":2 ,
-       "rating":4.65  
-    },
-    {
-      "property_pic": "images/properties/townhouse2.jpg",
-      "id":27,
-      "pet": "No",
-      "name": "Townhouse",
-      "price":1000,
-      "bedroom": "One Bedroom",
-      "bathroom": "Half Bathroom",
-      "propertytype": "Townhouse" ,
-      "icon1": "images/properties/bed.png",
-       "number1": 1,
-       "icon2": "images/properties/bath.png",
-       "number2": 1,
-       "icon3": "images/properties/car.png",
-       "number3":0,
-       "rating":4   
-    },
-    {
-      "property_pic": "images/properties/townhouse3.jpg",
-      "id":28,
-      "pet": "Yes",
-      "name": "Townhouse",
-      "price": 800,
-      "bedroom": "Two Bedroom",
-      "bathroom": "Full Bathroom",
-      "propertytype": "Townhouse" ,
-      "icon1": "images/properties/bed.png",
-       "number1": 2,
-       "icon2": "images/properties/bath.png",
-       "number2": 1,
-       "icon3": "images/properties/car.png",
-       "number3":1 ,
-       "rating":4.25 
-    },
-    {
-      "property_pic": "images/properties/unit1.jpg",
-      "id":29,
-      "pet": "No",
-      "name": "Unit",
-      "price": 900,
-      "bedroom": "One Bedroom",
-      "bathroom": "Shared Bathroom",
-      "propertytype": "Unit",
-      "icon1": "images/properties/bed.png",
-       "number1": 1,
-       "icon2": "images/properties/bath.png",
-       "number2": 1,
-       "icon3": "images/properties/car.png",
-       "number3":1,
-       "rating":4.9   
-    },
-    {
-      "property_pic": "images/properties/unit2.jpg",
-      "id":30,
-      "pet": "Yes",
-      "name": "Unit",
-      "price": 900,
-      "bedroom": "Two Bedroom",
-      "bathroom": "Full Bathroom",
-      "propertytype": "Unit",
-      "icon1": "images/properties/bed.png",
-       "number1": 2,
-       "icon2": "images/properties/bath.png",
-       "number2": 2,
-       "icon3": "images/properties/car.png",
-       "number3":1 ,
-       "rating":4 
-    },
-    {
-      "property_pic": "images/properties/unit3.jpg",
-      "id":31,
-      "pet": "No",
-      "name": "Unit",
-      "price": 1000,
-      "bedroom": "Three Bedroom",
-      "bathroom": "Half Bathroom",
-      "propertytype": "Unit",
-      "icon1": "images/properties/bed.png",
-       "number1": 3,
-       "icon2": "images/properties/bath.png",
-       "number2": 1,
-       "icon3": "images/properties/car.png",
-       "number3":1 ,
-       "rating":3.7  
-    },
-    {
-      "property_pic": "images/properties/unit4.jpg",
-      "id":32,
-      "pet": "Yes",
-      "name": "Unit",
-      "price": 900,
-      "bedroom": "Three Bedroom",
-      "bathroom": "Full Bathroom",
-      "propertytype": "Unit",
-      "icon1": "images/properties/bed.png",
-       "number1": 3,
-       "icon2": "images/properties/bath.png",
-       "number2": 1,
-       "icon3": "images/properties/car.png",
-       "number3":2,
-       "rating":4.2   
-    }
-  ]
+]

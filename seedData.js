@@ -21,7 +21,8 @@ const products = JSON.parse(fs.readFileSync(`${__dirname}/_seedData/products.jso
 const importData = async () => {
     try {
         await Product.create(products);
-      
+        
+
         console.log(`Data successfully imported`.green.inverse);
         process.exit();
     } catch (err) {
@@ -34,7 +35,8 @@ const importData = async () => {
 const deleteAllData = async () => {
     try {
         await Product.deleteMany({});
-       
+        
+
         console.log(`All data successfully deleted`.red.inverse);
         process.exit();
     } catch (err) {
@@ -42,8 +44,6 @@ const deleteAllData = async () => {
         process.exit(1);
     }
 };
-
-
 
 // Handle command-line arguments
 const command = process.argv[2];

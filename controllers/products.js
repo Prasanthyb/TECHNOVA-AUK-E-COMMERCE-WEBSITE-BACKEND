@@ -65,7 +65,7 @@ exports.getAllProducts = asyncHandler(async (req, res, next) => {
  // ~~~~~~~~~~~~~Pagination:~~~~~~~~~~~~~~~ 
 
   let page = Number(req.query.page) || 1;
-  let limit = Number(req.query.limit) ||8;
+  let limit = Number(req.query.limit) ||12;
   let skip = (page - 1) * limit;
   query = query.skip(skip).limit(limit);
 
@@ -151,6 +151,7 @@ exports.deleteProductsById = asyncHandler(async (req, res, next) => {
     data: {},
   });
 });
+
 
 
 
